@@ -1,0 +1,247 @@
+fileFormatVersion: 2
+guid: 81870edb458cfcf44b93782109d40807
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1052958449456789555
+    second: bluble_0
+  - first:
+      213: 5005758578419506366
+    second: bluble_1
+  - first:
+      213: -1805990826187651136
+    second: bluble_2
+  - first:
+      213: -7312258666005090442
+    second: bluble_3
+  - first:
+      213: 1899364441922915781
+    second: bluble_4
+  - first:
+      213: -8754117674554640370
+    second: bluble_5
+  - first:
+      213: -3091801600491168217
+    second: bluble_6
+  - first:
+      213: -869620145813839979
+    second: bluble_7
+  - first:
+      213: -2969794206268970588
+    second: bluble_8
+  - first:
+      213: 6364503196794978120
+    second: bluble_9
+  - first:
+      213: 3951738521997925464
+    second: bluble_10
+  - first:
+      213: -7332090120001316834
+    second: bluble_11
+  - first:
+      213: 5066507606679776017
+    second: bluble_12
+  - first:
+      213: -8366968397682312993
+    second: bluble_13
+  - first:
+      213: -8000489985718076092
+    second: bluble_14
+  - first:
+      213: -6154244044491514072
+    second: bluble_15
+  - first:
+      213: 6644184630081966505
+    second: bluble_16
+  - first:
+      213: 7154936028333680256
+    second: bluble_17
+  - first:
+      213: -4727412902990114219
+    second: bluble_18
+  - first:
+      213: -7144261847848675910
+    second: bluble_19
+  - first:
+      213: -4800716964823434708
+    second: bluble_20
+  - first:
+      213: 4372637694056801294
+    second: bluble_21
+  - first:
+      213: -2815097666491269809
+    second: bluble_22
+  - first:
+      213: 6324674464704086034
+    second: bluble_23
+  - first:
+      213: 718576828283470878
+    second: bluble_24
+  - first:
+      213: -6775316158853562953
+    second: bluble_25
+  - first:
+      213: -1445030077329420203
+    second: bluble_26
+  - first:
+      213: -2546275756573410834
+    second: bluble_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: bluble_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 2000
+        height: 2000
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15d6706404072f245a44382127009771
+      internalID: -1708426466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 92f6422fad8990e40b1db4cafe846f72
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      bluble_0: -1708426466
+      bluble_28: -1881533639
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1844 @@
+fileFormatVersion: 2
+guid: ba2bfdefaa025f64cad76da5db2be76d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8592543887027536749
+    second: 2048_2048_ui.part.c_4615_0
+  - first:
+      213: 7582390391914372337
+    second: 2048_2048_ui.part.c_4615_1
+  - first:
+      213: -7660251883173085217
+    second: 2048_2048_ui.part.c_4615_2
+  - first:
+      213: 1043023922677966806
+    second: 2048_2048_ui.part.c_4615_3
+  - first:
+      213: -7251256068062621075
+    second: 2048_2048_ui.part.c_4615_4
+  - first:
+      213: 9099206049648157906
+    second: 2048_2048_ui.part.c_4615_5
+  - first:
+      213: 6734532946982419108
+    second: 2048_2048_ui.part.c_4615_6
+  - first:
+      213: 2359364583965645831
+    second: 2048_2048_ui.part.c_4615_7
+  - first:
+      213: -1020256826383020591
+    second: 2048_2048_ui.part.c_4615_8
+  - first:
+      213: 4238687005981031672
+    second: 2048_2048_ui.part.c_4615_9
+  - first:
+      213: 8156652336020114980
+    second: 2048_2048_ui.part.c_4615_10
+  - first:
+      213: 7252030193348514124
+    second: 2048_2048_ui.part.c_4615_11
+  - first:
+      213: -8147007609124429904
+    second: 2048_2048_ui.part.c_4615_12
+  - first:
+      213: 7157215586784137230
+    second: 2048_2048_ui.part.c_4615_13
+  - first:
+      213: -535758386614174376
+    second: 2048_2048_ui.part.c_4615_14
+  - first:
+      213: -3938460781452747727
+    second: 2048_2048_ui.part.c_4615_15
+  - first:
+      213: 3639382855490900761
+    second: 2048_2048_ui.part.c_4615_16
+  - first:
+      213: 4684941171130413357
+    second: 2048_2048_ui.part.c_4615_17
+  - first:
+      213: 3068988459423535430
+    second: 2048_2048_ui.part.c_4615_18
+  - first:
+      213: 8189497938426114135
+    second: 2048_2048_ui.part.c_4615_19
+  - first:
+      213: -2666441646320074554
+    second: 2048_2048_ui.part.c_4615_20
+  - first:
+      213: -966336342038091864
+    second: 2048_2048_ui.part.c_4615_21
+  - first:
+      213: 5537253464807422929
+    second: 2048_2048_ui.part.c_4615_22
+  - first:
+      213: -8609637813998883121
+    second: 2048_2048_ui.part.c_4615_23
+  - first:
+      213: 496981882039087138
+    second: 2048_2048_ui.part.c_4615_24
+  - first:
+      213: -6873626729986290212
+    second: 2048_2048_ui.part.c_4615_25
+  - first:
+      213: -2958900498064367476
+    second: 2048_2048_ui.part.c_4615_26
+  - first:
+      213: -6668967212403345167
+    second: 2048_2048_ui.part.c_4615_27
+  - first:
+      213: -7316668757550920250
+    second: 2048_2048_ui.part.c_4615_28
+  - first:
+      213: 8058901882816676144
+    second: 2048_2048_ui.part.c_4615_29
+  - first:
+      213: -8341608992455965116
+    second: 2048_2048_ui.part.c_4615_30
+  - first:
+      213: -2809132315970551845
+    second: 2048_2048_ui.part.c_4615_31
+  - first:
+      213: 7948569266782985153
+    second: 2048_2048_ui.part.c_4615_32
+  - first:
+      213: 6446798559978468688
+    second: 2048_2048_ui.part.c_4615_33
+  - first:
+      213: -2037021688179314378
+    second: 2048_2048_ui.part.c_4615_34
+  - first:
+      213: 3837868826019530790
+    second: 2048_2048_ui.part.c_4615_35
+  - first:
+      213: -1552300450359038947
+    second: 2048_2048_ui.part.c_4615_36
+  - first:
+      213: 1555420321062692757
+    second: 2048_2048_ui.part.c_4615_37
+  - first:
+      213: 6933157489637902374
+    second: 2048_2048_ui.part.c_4615_38
+  - first:
+      213: -4330565466490204680
+    second: 2048_2048_ui.part.c_4615_39
+  - first:
+      213: -3296495094073469819
+    second: 2048_2048_ui.part.c_4615_40
+  - first:
+      213: -9221630242585059683
+    second: 2048_2048_ui.part.c_4615_41
+  - first:
+      213: 8389571488047685797
+    second: 2048_2048_ui.part.c_4615_42
+  - first:
+      213: 6646885134691916465
+    second: 2048_2048_ui.part.c_4615_43
+  - first:
+      213: -261964935419480712
+    second: 2048_2048_ui.part.c_4615_44
+  - first:
+      213: 2248318505730872463
+    second: 2048_2048_ui.part.c_4615_45
+  - first:
+      213: -5682147826960546193
+    second: 2048_2048_ui.part.c_4615_46
+  - first:
+      213: -4553097673724166999
+    second: 2048_2048_ui.part.c_4615_47
+  - first:
+      213: -6635260642211662972
+    second: 2048_2048_ui.part.c_4615_48
+  - first:
+      213: 6781495722064199479
+    second: 2048_2048_ui.part.c_4615_49
+  - first:
+      213: 6812186361556443971
+    second: 2048_2048_ui.part.c_4615_50
+  - first:
+      213: 2368404372442884355
+    second: 2048_2048_ui.part.c_4615_51
+  - first:
+      213: 729550507385154848
+    second: 2048_2048_ui.part.c_4615_52
+  - first:
+      213: 75852202334808990
+    second: 2048_2048_ui.part.c_4615_53
+  - first:
+      213: 1361826642976939669
+    second: 2048_2048_ui.part.c_4615_54
+  - first:
+      213: 2961913106039345690
+    second: 2048_2048_ui.part.c_4615_55
+  - first:
+      213: -827026146495977529
+    second: 2048_2048_ui.part.c_4615_56
+  - first:
+      213: 1799326149444547317
+    second: 2048_2048_ui.part.c_4615_57
+  - first:
+      213: -1613043712938572019
+    second: 2048_2048_ui.part.c_4615_58
+  - first:
+      213: -2738403470044187370
+    second: 2048_2048_ui.part.c_4615_59
+  - first:
+      213: -3615617397057049999
+    second: 2048_2048_ui.part.c_4615_60
+  - first:
+      213: 4111413085513553118
+    second: 2048_2048_ui.part.c_4615_61
+  - first:
+      213: -838262783368767211
+    second: 2048_2048_ui.part.c_4615_62
+  - first:
+      213: 2709495107533886635
+    second: 2048_2048_ui.part.c_4615_63
+  - first:
+      213: -8042598592350015508
+    second: 2048_2048_ui.part.c_4615_64
+  - first:
+      213: 5502062249371950282
+    second: 2048_2048_ui.part.c_4615_65
+  - first:
+      213: 1537027831825106287
+    second: 2048_2048_ui.part.c_4615_66
+  - first:
+      213: -6946254530398686742
+    second: 2048_2048_ui.part.c_4615_67
+  - first:
+      213: -1253286847903244589
+    second: 2048_2048_ui.part.c_4615_68
+  - first:
+      213: -3683257713151303615
+    second: 2048_2048_ui.part.c_4615_69
+  - first:
+      213: 1126150039340858672
+    second: 2048_2048_ui.part.c_4615_70
+  - first:
+      213: 2704058073886344971
+    second: 2048_2048_ui.part.c_4615_71
+  - first:
+      213: 3761170536050374673
+    second: 2048_2048_ui.part.c_4615_72
+  - first:
+      213: -3157856234344021785
+    second: 2048_2048_ui.part.c_4615_73
+  - first:
+      213: -1781873581036523775
+    second: 2048_2048_ui.part.c_4615_74
+  - first:
+      213: -6253677294955064431
+    second: 2048_2048_ui.part.c_4615_75
+  - first:
+      213: 8674247811918841642
+    second: 2048_2048_ui.part.c_4615_76
+  - first:
+      213: 8050480165161824695
+    second: 2048_2048_ui.part.c_4615_77
+  - first:
+      213: -6617242789095331880
+    second: 2048_2048_ui.part.c_4615_78
+  - first:
+      213: -7954771704725226874
+    second: 2048_2048_ui.part.c_4615_79
+  - first:
+      213: 7160119006918173167
+    second: 2048_2048_ui.part.c_4615_80
+  - first:
+      213: 8778979953454909519
+    second: 2048_2048_ui.part.c_4615_81
+  - first:
+      213: -4559249828711470060
+    second: 2048_2048_ui.part.c_4615_82
+  - first:
+      213: -1860120121004082367
+    second: 2048_2048_ui.part.c_4615_83
+  - first:
+      213: 197700601338958611
+    second: 2048_2048_ui.part.c_4615_84
+  - first:
+      213: 2361469152856222265
+    second: 2048_2048_ui.part.c_4615_85
+  - first:
+      213: -5925187220620705096
+    second: 2048_2048_ui.part.c_4615_86
+  - first:
+      213: -2058518097706427238
+    second: 2048_2048_ui.part.c_4615_87
+  - first:
+      213: 6989292898141329954
+    second: 2048_2048_ui.part.c_4615_88
+  - first:
+      213: -4765152656500627180
+    second: 2048_2048_ui.part.c_4615_89
+  - first:
+      213: 80882315346286402
+    second: 2048_2048_ui.part.c_4615_90
+  - first:
+      213: -1031307682667405227
+    second: 2048_2048_ui.part.c_4615_91
+  - first:
+      213: -1175566388924213769
+    second: 2048_2048_ui.part.c_4615_92
+  - first:
+      213: 6649888082044192635
+    second: 2048_2048_ui.part.c_4615_93
+  - first:
+      213: 5844211834749639217
+    second: 2048_2048_ui.part.c_4615_94
+  - first:
+      213: -865637997231051366
+    second: 2048_2048_ui.part.c_4615_95
+  - first:
+      213: -7825803306562733544
+    second: 2048_2048_ui.part.c_4615_96
+  - first:
+      213: -8904503837583769402
+    second: 2048_2048_ui.part.c_4615_97
+  - first:
+      213: 5259129535347789893
+    second: 2048_2048_ui.part.c_4615_98
+  - first:
+      213: 1761599201248210619
+    second: 2048_2048_ui.part.c_4615_99
+  - first:
+      213: 5574637233008070003
+    second: 2048_2048_ui.part.c_4615_100
+  - first:
+      213: 4128781925163401787
+    second: 2048_2048_ui.part.c_4615_101
+  - first:
+      213: 3792808607051889151
+    second: 2048_2048_ui.part.c_4615_102
+  - first:
+      213: 6549396919558814788
+    second: 2048_2048_ui.part.c_4615_103
+  - first:
+      213: -406383118079594150
+    second: 2048_2048_ui.part.c_4615_104
+  - first:
+      213: 7420436762610931822
+    second: 2048_2048_ui.part.c_4615_105
+  - first:
+      213: 5231685156549836107
+    second: 2048_2048_ui.part.c_4615_106
+  - first:
+      213: -8292138662207223353
+    second: 2048_2048_ui.part.c_4615_107
+  - first:
+      213: -6016644013877491567
+    second: 2048_2048_ui.part.c_4615_108
+  - first:
+      213: -7336775864076334508
+    second: 2048_2048_ui.part.c_4615_109
+  - first:
+      213: -6384904318741326070
+    second: 2048_2048_ui.part.c_4615_110
+  - first:
+      213: 2397107207588611396
+    second: 2048_2048_ui.part.c_4615_111
+  - first:
+      213: 7179353939901113621
+    second: 2048_2048_ui.part.c_4615_112
+  - first:
+      213: -1374892196797893076
+    second: 2048_2048_ui.part.c_4615_113
+  - first:
+      213: 3319970704013337712
+    second: 2048_2048_ui.part.c_4615_114
+  - first:
+      213: -7445131270982878007
+    second: 2048_2048_ui.part.c_4615_115
+  - first:
+      213: 8139787915268193910
+    second: 2048_2048_ui.part.c_4615_116
+  - first:
+      213: -804998189877890154
+    second: 2048_2048_ui.part.c_4615_117
+  - first:
+      213: 4070336993605186119
+    second: 2048_2048_ui.part.c_4615_118
+  - first:
+      213: -2364215400933808750
+    second: 2048_2048_ui.part.c_4615_119
+  - first:
+      213: -3742281370083643828
+    second: 2048_2048_ui.part.c_4615_120
+  - first:
+      213: 3591025234485610995
+    second: 2048_2048_ui.part.c_4615_121
+  - first:
+      213: -1666375573024748589
+    second: 2048_2048_ui.part.c_4615_122
+  - first:
+      213: 7486372623998483822
+    second: 2048_2048_ui.part.c_4615_123
+  - first:
+      213: 6199650768016521963
+    second: 2048_2048_ui.part.c_4615_124
+  - first:
+      213: 2788085342980757367
+    second: 2048_2048_ui.part.c_4615_125
+  - first:
+      213: -1759392509463264561
+    second: 2048_2048_ui.part.c_4615_126
+  - first:
+      213: 2813606814439232747
+    second: 2048_2048_ui.part.c_4615_127
+  - first:
+      213: -1603113000916111367
+    second: 2048_2048_ui.part.c_4615_128
+  - first:
+      213: -449053926159125806
+    second: 2048_2048_ui.part.c_4615_129
+  - first:
+      213: 8126714299715661671
+    second: 2048_2048_ui.part.c_4615_130
+  - first:
+      213: -5894803093081272032
+    second: 2048_2048_ui.part.c_4615_131
+  - first:
+      213: -4042978300214072498
+    second: 2048_2048_ui.part.c_4615_132
+  - first:
+      213: 3419716734815608031
+    second: 2048_2048_ui.part.c_4615_133
+  - first:
+      213: -5774402691272924603
+    second: 2048_2048_ui.part.c_4615_134
+  - first:
+      213: -4550941496241207658
+    second: 2048_2048_ui.part.c_4615_135
+  - first:
+      213: 2275502436798067669
+    second: 2048_2048_ui.part.c_4615_136
+  - first:
+      213: 1177320746512236159
+    second: 2048_2048_ui.part.c_4615_137
+  - first:
+      213: -7953549226973667300
+    second: 2048_2048_ui.part.c_4615_138
+  - first:
+      213: 1540177374215447604
+    second: 2048_2048_ui.part.c_4615_139
+  - first:
+      213: 5166035786930862796
+    second: 2048_2048_ui.part.c_4615_140
+  - first:
+      213: 1580454665089255278
+    second: 2048_2048_ui.part.c_4615_141
+  - first:
+      213: -1397685175095374689
+    second: 2048_2048_ui.part.c_4615_142
+  - first:
+      213: -7858936393534928023
+    second: 2048_2048_ui.part.c_4615_143
+  - first:
+      213: -1296120240723048802
+    second: 2048_2048_ui.part.c_4615_144
+  - first:
+      213: 3307973464090593951
+    second: 2048_2048_ui.part.c_4615_145
+  - first:
+      213: 901634997450221176
+    second: 2048_2048_ui.part.c_4615_146
+  - first:
+      213: -6544836861798063286
+    second: 2048_2048_ui.part.c_4615_147
+  - first:
+      213: -6952969557106729640
+    second: 2048_2048_ui.part.c_4615_148
+  - first:
+      213: -4143863134216199704
+    second: 2048_2048_ui.part.c_4615_149
+  - first:
+      213: 8459638432801775457
+    second: 2048_2048_ui.part.c_4615_150
+  - first:
+      213: -8188017385200487412
+    second: 2048_2048_ui.part.c_4615_151
+  - first:
+      213: -2812886144067077534
+    second: 2048_2048_ui.part.c_4615_152
+  - first:
+      213: -3499572443188320527
+    second: 2048_2048_ui.part.c_4615_153
+  - first:
+      213: 540635717033017150
+    second: 2048_2048_ui.part.c_4615_154
+  - first:
+      213: -3418669595589060834
+    second: 2048_2048_ui.part.c_4615_155
+  - first:
+      213: 7087207108642620607
+    second: 2048_2048_ui.part.c_4615_156
+  - first:
+      213: -2749545810989924961
+    second: 2048_2048_ui.part.c_4615_157
+  - first:
+      213: 5216627093132295604
+    second: 2048_2048_ui.part.c_4615_158
+  - first:
+      213: 3510511201147656387
+    second: 2048_2048_ui.part.c_4615_159
+  - first:
+      213: -4428557444476793724
+    second: 2048_2048_ui.part.c_4615_160
+  - first:
+      213: 6589948017432873349
+    second: 2048_2048_ui.part.c_4615_161
+  - first:
+      213: -2876217330259681685
+    second: 2048_2048_ui.part.c_4615_162
+  - first:
+      213: 2338436883254598552
+    second: 2048_2048_ui.part.c_4615_163
+  - first:
+      213: -1560088096632860740
+    second: 2048_2048_ui.part.c_4615_164
+  - first:
+      213: -5523023310224501686
+    second: 2048_2048_ui.part.c_4615_165
+  - first:
+      213: 6912336416362695990
+    second: 2048_2048_ui.part.c_4615_166
+  - first:
+      213: -6683583429569193019
+    second: 2048_2048_ui.part.c_4615_167
+  - first:
+      213: -3000837780792258223
+    second: 2048_2048_ui.part.c_4615_168
+  - first:
+      213: -3861719752171838724
+    second: 2048_2048_ui.part.c_4615_169
+  - first:
+      213: 8461588196396288242
+    second: 2048_2048_ui.part.c_4615_170
+  - first:
+      213: 2579429854047286399
+    second: 2048_2048_ui.part.c_4615_171
+  - first:
+      213: -3268035440597469365
+    second: 2048_2048_ui.part.c_4615_172
+  - first:
+      213: -3314858583250069803
+    second: 2048_2048_ui.part.c_4615_173
+  - first:
+      213: 4700268744563309850
+    second: 2048_2048_ui.part.c_4615_174
+  - first:
+      213: 1005498006291877751
+    second: 2048_2048_ui.part.c_4615_175
+  - first:
+      213: -4530233624661019030
+    second: 2048_2048_ui.part.c_4615_176
+  - first:
+      213: -7036982333108920460
+    second: 2048_2048_ui.part.c_4615_177
+  - first:
+      213: 3775972246009489560
+    second: 2048_2048_ui.part.c_4615_178
+  - first:
+      213: -3012552403070833750
+    second: 2048_2048_ui.part.c_4615_179
+  - first:
+      213: 7279320269856267428
+    second: 2048_2048_ui.part.c_4615_180
+  - first:
+      213: 7503595070106159528
+    second: 2048_2048_ui.part.c_4615_181
+  - first:
+      213: -6832534134697871871
+    second: 2048_2048_ui.part.c_4615_182
+  - first:
+      213: -746577323997482412
+    second: 2048_2048_ui.part.c_4615_183
+  - first:
+      213: -1912376545225719011
+    second: 2048_2048_ui.part.c_4615_184
+  - first:
+      213: 9074618063143534196
+    second: 2048_2048_ui.part.c_4615_185
+  - first:
+      213: 8580816253447444388
+    second: 2048_2048_ui.part.c_4615_186
+  - first:
+      213: 2786002625164478016
+    second: 2048_2048_ui.part.c_4615_187
+  - first:
+      213: 3014222603227392366
+    second: 2048_2048_ui.part.c_4615_188
+  - first:
+      213: -914607908528646148
+    second: 2048_2048_ui.part.c_4615_189
+  - first:
+      213: -5255022547422204480
+    second: 2048_2048_ui.part.c_4615_190
+  - first:
+      213: 1172024553393873749
+    second: 2048_2048_ui.part.c_4615_191
+  - first:
+      213: 5854211266774621711
+    second: 2048_2048_ui.part.c_4615_192
+  - first:
+      213: 5408558414502081084
+    second: 2048_2048_ui.part.c_4615_193
+  - first:
+      213: 2362879394943939238
+    second: 2048_2048_ui.part.c_4615_194
+  - first:
+      213: -2435122120485309941
+    second: 2048_2048_ui.part.c_4615_195
+  - first:
+      213: 7355360854724655232
+    second: 2048_2048_ui.part.c_4615_196
+  - first:
+      213: 5966081086008184290
+    second: 2048_2048_ui.part.c_4615_197
+  - first:
+      213: 5328961740049020342
+    second: 2048_2048_ui.part.c_4615_198
+  - first:
+      213: -8298132629152045709
+    second: 2048_2048_ui.part.c_4615_199
+  - first:
+      213: -4765092343432726509
+    second: 2048_2048_ui.part.c_4615_200
+  - first:
+      213: -1207564353062049429
+    second: 2048_2048_ui.part.c_4615_201
+  - first:
+      213: -2832800213073178070
+    second: 2048_2048_ui.part.c_4615_202
+  - first:
+      213: -6220953284420299918
+    second: 2048_2048_ui.part.c_4615_203
+  - first:
+      213: -9124224686453291359
+    second: 2048_2048_ui.part.c_4615_204
+  - first:
+      213: 4591945236022111758
+    second: 2048_2048_ui.part.c_4615_205
+  - first:
+      213: 2271962657685121461
+    second: 2048_2048_ui.part.c_4615_206
+  - first:
+      213: -6089580175560919467
+    second: 2048_2048_ui.part.c_4615_207
+  - first:
+      213: 1518144811838277773
+    second: 2048_2048_ui.part.c_4615_208
+  - first:
+      213: 3992379487794175528
+    second: 2048_2048_ui.part.c_4615_209
+  - first:
+      213: 3626114157548662586
+    second: 2048_2048_ui.part.c_4615_210
+  - first:
+      213: 364325360126980936
+    second: 2048_2048_ui.part.c_4615_211
+  - first:
+      213: -214441694022823041
+    second: 2048_2048_ui.part.c_4615_212
+  - first:
+      213: 3746106688430756850
+    second: 2048_2048_ui.part.c_4615_213
+  - first:
+      213: 1832622588728545294
+    second: 2048_2048_ui.part.c_4615_214
+  - first:
+      213: -7115195764409208042
+    second: 2048_2048_ui.part.c_4615_215
+  - first:
+      213: -8748446233349242424
+    second: 2048_2048_ui.part.c_4615_216
+  - first:
+      213: 4565545957862101645
+    second: 2048_2048_ui.part.c_4615_217
+  - first:
+      213: -3608443697584916645
+    second: 2048_2048_ui.part.c_4615_218
+  - first:
+      213: -383769101393717907
+    second: 2048_2048_ui.part.c_4615_219
+  - first:
+      213: 2445731564202219874
+    second: 2048_2048_ui.part.c_4615_220
+  - first:
+      213: 4523747935161078360
+    second: 2048_2048_ui.part.c_4615_221
+  - first:
+      213: -7756886080322667785
+    second: 2048_2048_ui.part.c_4615_222
+  - first:
+      213: 4262717635135697699
+    second: 2048_2048_ui.part.c_4615_223
+  - first:
+      213: 1895069362902253325
+    second: 2048_2048_ui.part.c_4615_224
+  - first:
+      213: 7230161751691426482
+    second: 2048_2048_ui.part.c_4615_225
+  - first:
+      213: 4895793294959085983
+    second: 2048_2048_ui.part.c_4615_226
+  - first:
+      213: 6588729275412779028
+    second: 2048_2048_ui.part.c_4615_227
+  - first:
+      213: 7734123278988822952
+    second: 2048_2048_ui.part.c_4615_228
+  - first:
+      213: -424256439865199140
+    second: 2048_2048_ui.part.c_4615_229
+  - first:
+      213: 6726892368190583213
+    second: 2048_2048_ui.part.c_4615_230
+  - first:
+      213: -1080808887072925402
+    second: 2048_2048_ui.part.c_4615_231
+  - first:
+      213: 8746765307017259147
+    second: 2048_2048_ui.part.c_4615_232
+  - first:
+      213: -7768915674533183394
+    second: 2048_2048_ui.part.c_4615_233
+  - first:
+      213: -1055667933358751922
+    second: 2048_2048_ui.part.c_4615_234
+  - first:
+      213: 4796144391004426075
+    second: 2048_2048_ui.part.c_4615_235
+  - first:
+      213: -7768337218775707846
+    second: 2048_2048_ui.part.c_4615_236
+  - first:
+      213: 3610155503969134696
+    second: 2048_2048_ui.part.c_4615_237
+  - first:
+      213: 822944885555788738
+    second: 2048_2048_ui.part.c_4615_238
+  - first:
+      213: -4710283760811087273
+    second: 2048_2048_ui.part.c_4615_239
+  - first:
+      213: -674924690067606238
+    second: 2048_2048_ui.part.c_4615_240
+  - first:
+      213: -694383558850730641
+    second: 2048_2048_ui.part.c_4615_241
+  - first:
+      213: -5264016518822788922
+    second: 2048_2048_ui.part.c_4615_242
+  - first:
+      213: -3638786614936616109
+    second: 2048_2048_ui.part.c_4615_243
+  - first:
+      213: 6988243489154345301
+    second: 2048_2048_ui.part.c_4615_244
+  - first:
+      213: -455837876238549070
+    second: 2048_2048_ui.part.c_4615_245
+  - first:
+      213: 2162773279638405600
+    second: 2048_2048_ui.part.c_4615_246
+  - first:
+      213: 6868077745854873411
+    second: 2048_2048_ui.part.c_4615_247
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: 2048_2048_ui.part.c_4615_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 50
+        width: 1719
+        height: 1198
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39cf4c82cd621c880800000000000000
+      internalID: -8592543887027536749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2048_2048_ui.part.c_4615_1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1252
+        width: 951
+        height: 740
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc146263ef0a3960800000000000000
+      internalID: 7582390391914372337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2048_2048_ui.part.c_4615_2
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 1253
+        width: 124
+        height: 304
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf737d7f7151b590800000000000000
+      internalID: -7660251883173085217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2048_2048_ui.part.c_4615_3
+      rect:
+        serializedVersion: 2
+        x: 1728
+        y: 53
+        width: 275
+        height: 459
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d764734bb0997e00800000000000000
+      internalID: 1043023922677966806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2048_2048_ui.part.c_4615_4
+      rect:
+        serializedVersion: 2
+        x: 1727
+        y: 516
+        width: 255
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d625bbf560d5e5b90800000000000000
+      internalID: -7251256068062621075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2048_2048_ui.part.c_4615_5
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 594
+        width: 17
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d42d5741bfd64e70800000000000000
+      internalID: 9099206049648157906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2048_2048_ui.part.c_4615_6
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 1259
+        width: 635
+        height: 771
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aa3d01c80ed57d50800000000000000
+      internalID: 6734532946982419108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2048_2048_ui.part.c_4615_7
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 1874
+        width: 386
+        height: 162
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70cd8e2b6952eb020800000000000000
+      internalID: 2359364583965645831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2048_2048_ui.part.c_4615_8
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 1466
+        width: 153
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 394f0e15c3dedbd4a8aaa2976bc62235
+      internalID: -1020256826383020591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2048_2048_ui.part.c_4615_9
+      rect:
+        serializedVersion: 2
+        x: 1733
+        y: 1139
+        width: 151
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fbe86fb2ab75194a82c61975b57322c
+      internalID: 4238687005981031672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2048_2048_ui.part.c_4615_10
+      rect:
+        serializedVersion: 2
+        x: 1734
+        y: 803
+        width: 149
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 477f0671ea40e7344af1cc4062eb023c
+      internalID: 8156652336020114980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2048_2048_ui.part.c_4615_11
+      rect:
+        serializedVersion: 2
+        x: 1892
+        y: 886
+        width: 73
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb21c664b0d4de4a949d7d8db3526b2
+      internalID: 7252030193348514124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2048_2048_ui.part.c_4615_12
+      rect:
+        serializedVersion: 2
+        x: 1891
+        y: 793
+        width: 93
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929adce9807fe3a4aa395a266ea04994
+      internalID: -8147007609124429904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2048_2048_ui.part.c_4615_13
+      rect:
+        serializedVersion: 2
+        x: 1985
+        y: 809
+        width: 50
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a8495f84d15df4098470fe1458b34a
+      internalID: 7157215586784137230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2048_2048_ui.part.c_4615_14
+      rect:
+        serializedVersion: 2
+        x: 1967
+        y: 908
+        width: 63
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ac40fd63cdc74340a6cdf22fb26edbb
+      internalID: -535758386614174376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2048_2048_ui.part.c_4615_15
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 708
+        width: 58
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4950d4114c463049bacede57617b354
+      internalID: -3938460781452747727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2048_2048_ui.part.c_4615_16
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 205
+        width: 42
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308c0e08113c7c34eb50c9f8a7897123
+      internalID: 3639382855490900761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2048_2048_ui.part.c_4615_17
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 68
+        width: 39
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57e9378b5edb6b24187a348d8ec39cae
+      internalID: 4684941171130413357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2048_2048_ui.part.c_4615_18
+      rect:
+        serializedVersion: 2
+        x: 2005
+        y: 313
+        width: 37
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0743045019edab41880761c34e834ab
+      internalID: 3068988459423535430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2048_2048_ui.part.c_4615_19
+      rect:
+        serializedVersion: 2
+        x: 2004
+        y: 428
+        width: 41
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d36546be799956444b52f7994fd80d35
+      internalID: 8189497938426114135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2048_2048_ui.part.c_4615_20
+      rect:
+        serializedVersion: 2
+        x: 2003
+        y: 562
+        width: 43
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa8725110653be945ae16c8a3940e9b4
+      internalID: -2666441646320074554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2048_2048_ui.part.c_4615_21
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 1014
+        width: 151
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed4bcabc3f87d73439295e18e75f7ea9
+      internalID: -966336342038091864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2048_2048_ui.part.c_4615_22
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 1119
+        width: 64
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23cde6d465ccfb542b31298f6a3a5d3f
+      internalID: 5537253464807422929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2048_2048_ui.part.c_4615_23
+      rect:
+        serializedVersion: 2
+        x: 2007
+        y: 1121
+        width: 40
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c92a53b9f9d2dd34984e7eb1d761dbed
+      internalID: -8609637813998883121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2048_2048_ui.part.c_4615_24
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 1216
+        width: 41
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7fe81a669a7a348968ce995add3bb2
+      internalID: 496981882039087138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2048_2048_ui.part.c_4615_25
+      rect:
+        serializedVersion: 2
+        x: 1889
+        y: 1521
+        width: 159
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea244723a80372f4584af499f6388c5c
+      internalID: -6873626729986290212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2048_2048_ui.part.c_4615_26
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 1469
+        width: 72
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d192fe9c74b667a419a11a9bca82b9be
+      internalID: -2958900498064367476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2048_2048_ui.part.c_4615_27
+      rect:
+        serializedVersion: 2
+        x: 1915
+        y: 1433
+        width: 20
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31206a1ebd7a9614ab83ca733860f512
+      internalID: -6668967212403345167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2048_2048_ui.part.c_4615_28
+      rect:
+        serializedVersion: 2
+        x: 1937
+        y: 1445
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 280be5d1e15231b468e7d8791ca90bb4
+      internalID: -7316668757550920250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2048_2048_ui.part.c_4615_29
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 1427
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01de5525f5a45784a99ac4aaca9fc57f
+      internalID: 8058901882816676144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2048_2048_ui.part.c_4615_30
+      rect:
+        serializedVersion: 2
+        x: 2012
+        y: 1375
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26b6ae42cb64a944eb2fb5223214bfae
+      internalID: -8341608992455965116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2048_2048_ui.part.c_4615_31
+      rect:
+        serializedVersion: 2
+        x: 1984
+        y: 1372
+        width: 27
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 271132ae7f9e87546a3a0d3c73fe39fc
+      internalID: -2809132315970551845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2048_2048_ui.part.c_4615_32
+      rect:
+        serializedVersion: 2
+        x: 1913
+        y: 1381
+        width: 42
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdbef66820969db44b6a55f43cff1487
+      internalID: 7948569266782985153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 2048_2048_ui.part.c_4615_33
+      rect:
+        serializedVersion: 2
+        x: 1893
+        y: 1333
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33e16ff40b9c9124cb2ca74f2596caf8
+      internalID: 6446798559978468688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 64904c35f9ec7404daf1f0e9f9ec64ac
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      2048_2048_ui.part.c_4615_0: -8592543887027536749
+      2048_2048_ui.part.c_4615_1: 7582390391914372337
+      2048_2048_ui.part.c_4615_10: 8156652336020114980
+      2048_2048_ui.part.c_4615_100: 5574637233008070003
+      2048_2048_ui.part.c_4615_101: 4128781925163401787
+      2048_2048_ui.part.c_4615_102: 3792808607051889151
+      2048_2048_ui.part.c_4615_103: 6549396919558814788
+      2048_2048_ui.part.c_4615_104: -406383118079594150
+      2048_2048_ui.part.c_4615_105: 7420436762610931822
+      2048_2048_ui.part.c_4615_106: 5231685156549836107
+      2048_2048_ui.part.c_4615_107: -8292138662207223353
+      2048_2048_ui.part.c_4615_108: -6016644013877491567
+      2048_2048_ui.part.c_4615_109: -7336775864076334508
+      2048_2048_ui.part.c_4615_11: 7252030193348514124
+      2048_2048_ui.part.c_4615_110: -6384904318741326070
+      2048_2048_ui.part.c_4615_111: 2397107207588611396
+      2048_2048_ui.part.c_4615_112: 7179353939901113621
+      2048_2048_ui.part.c_4615_113: -1374892196797893076
+      2048_2048_ui.part.c_4615_114: 3319970704013337712
+      2048_2048_ui.part.c_4615_115: -7445131270982878007
+      2048_2048_ui.part.c_4615_116: 8139787915268193910
+      2048_2048_ui.part.c_4615_117: -804998189877890154
+      2048_2048_ui.part.c_4615_118: 4070336993605186119
+      2048_2048_ui.part.c_4615_119: -2364215400933808750
+      2048_2048_ui.part.c_4615_12: -8147007609124429904
+      2048_2048_ui.part.c_4615_120: -3742281370083643828
+      2048_2048_ui.part.c_4615_121: 3591025234485610995
+      2048_2048_ui.part.c_4615_122: -1666375573024748589
+      2048_2048_ui.part.c_4615_123: 7486372623998483822
+      2048_2048_ui.part.c_4615_124: 6199650768016521963
+      2048_2048_ui.part.c_4615_125: 2788085342980757367
+      2048_2048_ui.part.c_4615_126: -1759392509463264561
+      2048_2048_ui.part.c_4615_127: 2813606814439232747
+      2048_2048_ui.part.c_4615_128: -1603113000916111367
+      2048_2048_ui.part.c_4615_129: -449053926159125806
+      2048_2048_ui.part.c_4615_13: 7157215586784137230
+      2048_2048_ui.part.c_4615_130: 8126714299715661671
+      2048_2048_ui.part.c_4615_131: -5894803093081272032
+      2048_2048_ui.part.c_4615_132: -4042978300214072498
+      2048_2048_ui.part.c_4615_133: 3419716734815608031
+      2048_2048_ui.part.c_4615_134: -5774402691272924603
+      2048_2048_ui.part.c_4615_135: -4550941496241207658
+      2048_2048_ui.part.c_4615_136: 2275502436798067669
+      2048_2048_ui.part.c_4615_137: 1177320746512236159
+      2048_2048_ui.part.c_4615_138: -7953549226973667300
+      2048_2048_ui.part.c_4615_139: 1540177374215447604
+      2048_2048_ui.part.c_4615_14: -535758386614174376
+      2048_2048_ui.part.c_4615_140: 5166035786930862796
+      2048_2048_ui.part.c_4615_141: 1580454665089255278
+      2048_2048_ui.part.c_4615_142: -1397685175095374689
+      2048_2048_ui.part.c_4615_143: -7858936393534928023
+      2048_2048_ui.part.c_4615_144: -1296120240723048802
+      2048_2048_ui.part.c_4615_145: 3307973464090593951
+      2048_2048_ui.part.c_4615_146: 901634997450221176
+      2048_2048_ui.part.c_4615_147: -6544836861798063286
+      2048_2048_ui.part.c_4615_148: -6952969557106729640
+      2048_2048_ui.part.c_4615_149: -4143863134216199704
+      2048_2048_ui.part.c_4615_15: -3938460781452747727
+      2048_2048_ui.part.c_4615_150: 8459638432801775457
+      2048_2048_ui.part.c_4615_151: -8188017385200487412
+      2048_2048_ui.part.c_4615_152: -2812886144067077534
+      2048_2048_ui.part.c_4615_153: -3499572443188320527
+      2048_2048_ui.part.c_4615_154: 540635717033017150
+      2048_2048_ui.part.c_4615_155: -3418669595589060834
+      2048_2048_ui.part.c_4615_156: 7087207108642620607
+      2048_2048_ui.part.c_4615_157: -2749545810989924961
+      2048_2048_ui.part.c_4615_158: 5216627093132295604
+      2048_2048_ui.part.c_4615_159: 3510511201147656387
+      2048_2048_ui.part.c_4615_16: 3639382855490900761
+      2048_2048_ui.part.c_4615_160: -4428557444476793724
+      2048_2048_ui.part.c_4615_161: 6589948017432873349
+      2048_2048_ui.part.c_4615_162: -2876217330259681685
+      2048_2048_ui.part.c_4615_163: 2338436883254598552
+      2048_2048_ui.part.c_4615_164: -1560088096632860740
+      2048_2048_ui.part.c_4615_165: -5523023310224501686
+      2048_2048_ui.part.c_4615_166: 6912336416362695990
+      2048_2048_ui.part.c_4615_167: -6683583429569193019
+      2048_2048_ui.part.c_4615_168: -3000837780792258223
+      2048_2048_ui.part.c_4615_169: -3861719752171838724
+      2048_2048_ui.part.c_4615_17: 4684941171130413357
+      2048_2048_ui.part.c_4615_170: 8461588196396288242
+      2048_2048_ui.part.c_4615_171: 2579429854047286399
+      2048_2048_ui.part.c_4615_172: -3268035440597469365
+      2048_2048_ui.part.c_4615_173: -3314858583250069803
+      2048_2048_ui.part.c_4615_174: 4700268744563309850
+      2048_2048_ui.part.c_4615_175: 1005498006291877751
+      2048_2048_ui.part.c_4615_176: -4530233624661019030
+      2048_2048_ui.part.c_4615_177: -7036982333108920460
+      2048_2048_ui.part.c_4615_178: 3775972246009489560
+      2048_2048_ui.part.c_4615_179: -3012552403070833750
+      2048_2048_ui.part.c_4615_18: 3068988459423535430
+      2048_2048_ui.part.c_4615_180: 7279320269856267428
+      2048_2048_ui.part.c_4615_181: 7503595070106159528
+      2048_2048_ui.part.c_4615_182: -6832534134697871871
+      2048_2048_ui.part.c_4615_183: -746577323997482412
+      2048_2048_ui.part.c_4615_184: -1912376545225719011
+      2048_2048_ui.part.c_4615_185: 9074618063143534196
+      2048_2048_ui.part.c_4615_186: 8580816253447444388
+      2048_2048_ui.part.c_4615_187: 2786002625164478016
+      2048_2048_ui.part.c_4615_188: 3014222603227392366
+      2048_2048_ui.part.c_4615_189: -914607908528646148
+      2048_2048_ui.part.c_4615_19: 8189497938426114135
+      2048_2048_ui.part.c_4615_190: -5255022547422204480
+      2048_2048_ui.part.c_4615_191: 1172024553393873749
+      2048_2048_ui.part.c_4615_192: 5854211266774621711
+      2048_2048_ui.part.c_4615_193: 5408558414502081084
+      2048_2048_ui.part.c_4615_194: 2362879394943939238
+      2048_2048_ui.part.c_4615_195: -2435122120485309941
+      2048_2048_ui.part.c_4615_196: 7355360854724655232
+      2048_2048_ui.part.c_4615_197: 5966081086008184290
+      2048_2048_ui.part.c_4615_198: 5328961740049020342
+      2048_2048_ui.part.c_4615_199: -8298132629152045709
+      2048_2048_ui.part.c_4615_2: -7660251883173085217
+      2048_2048_ui.part.c_4615_20: -2666441646320074554
+      2048_2048_ui.part.c_4615_200: -4765092343432726509
+      2048_2048_ui.part.c_4615_201: -1207564353062049429
+      2048_2048_ui.part.c_4615_202: -2832800213073178070
+      2048_2048_ui.part.c_4615_203: -6220953284420299918
+      2048_2048_ui.part.c_4615_204: -9124224686453291359
+      2048_2048_ui.part.c_4615_205: 4591945236022111758
+      2048_2048_ui.part.c_4615_206: 2271962657685121461
+      2048_2048_ui.part.c_4615_207: -6089580175560919467
+      2048_2048_ui.part.c_4615_208: 1518144811838277773
+      2048_2048_ui.part.c_4615_209: 3992379487794175528
+      2048_2048_ui.part.c_4615_21: -966336342038091864
+      2048_2048_ui.part.c_4615_210: 3626114157548662586
+      2048_2048_ui.part.c_4615_211: 364325360126980936
+      2048_2048_ui.part.c_4615_212: -214441694022823041
+      2048_2048_ui.part.c_4615_213: 3746106688430756850
+      2048_2048_ui.part.c_4615_214: 1832622588728545294
+      2048_2048_ui.part.c_4615_215: -7115195764409208042
+      2048_2048_ui.part.c_4615_216: -8748446233349242424
+      2048_2048_ui.part.c_4615_217: 4565545957862101645
+      2048_2048_ui.part.c_4615_218: -3608443697584916645
+      2048_2048_ui.part.c_4615_219: -383769101393717907
+      2048_2048_ui.part.c_4615_22: 5537253464807422929
+      2048_2048_ui.part.c_4615_220: 2445731564202219874
+      2048_2048_ui.part.c_4615_221: 4523747935161078360
+      2048_2048_ui.part.c_4615_222: -7756886080322667785
+      2048_2048_ui.part.c_4615_223: 4262717635135697699
+      2048_2048_ui.part.c_4615_224: 1895069362902253325
+      2048_2048_ui.part.c_4615_225: 7230161751691426482
+      2048_2048_ui.part.c_4615_226: 4895793294959085983
+      2048_2048_ui.part.c_4615_227: 6588729275412779028
+      2048_2048_ui.part.c_4615_228: 7734123278988822952
+      2048_2048_ui.part.c_4615_229: -424256439865199140
+      2048_2048_ui.part.c_4615_23: -8609637813998883121
+      2048_2048_ui.part.c_4615_230: 6726892368190583213
+      2048_2048_ui.part.c_4615_231: -1080808887072925402
+      2048_2048_ui.part.c_4615_232: 8746765307017259147
+      2048_2048_ui.part.c_4615_233: -7768915674533183394
+      2048_2048_ui.part.c_4615_234: -1055667933358751922
+      2048_2048_ui.part.c_4615_235: 4796144391004426075
+      2048_2048_ui.part.c_4615_236: -7768337218775707846
+      2048_2048_ui.part.c_4615_237: 3610155503969134696
+      2048_2048_ui.part.c_4615_238: 822944885555788738
+      2048_2048_ui.part.c_4615_239: -4710283760811087273
+      2048_2048_ui.part.c_4615_24: 496981882039087138
+      2048_2048_ui.part.c_4615_240: -674924690067606238
+      2048_2048_ui.part.c_4615_241: -694383558850730641
+      2048_2048_ui.part.c_4615_242: -5264016518822788922
+      2048_2048_ui.part.c_4615_243: -3638786614936616109
+      2048_2048_ui.part.c_4615_244: 6988243489154345301
+      2048_2048_ui.part.c_4615_245: -455837876238549070
+      2048_2048_ui.part.c_4615_246: 2162773279638405600
+      2048_2048_ui.part.c_4615_247: 6868077745854873411
+      2048_2048_ui.part.c_4615_25: -6873626729986290212
+      2048_2048_ui.part.c_4615_26: -2958900498064367476
+      2048_2048_ui.part.c_4615_27: -6668967212403345167
+      2048_2048_ui.part.c_4615_28: -7316668757550920250
+      2048_2048_ui.part.c_4615_29: 8058901882816676144
+      2048_2048_ui.part.c_4615_3: 1043023922677966806
+      2048_2048_ui.part.c_4615_30: -8341608992455965116
+      2048_2048_ui.part.c_4615_31: -2809132315970551845
+      2048_2048_ui.part.c_4615_32: 7948569266782985153
+      2048_2048_ui.part.c_4615_33: 6446798559978468688
+      2048_2048_ui.part.c_4615_34: -2037021688179314378
+      2048_2048_ui.part.c_4615_35: 3837868826019530790
+      2048_2048_ui.part.c_4615_36: -1552300450359038947
+      2048_2048_ui.part.c_4615_37: 1555420321062692757
+      2048_2048_ui.part.c_4615_38: 6933157489637902374
+      2048_2048_ui.part.c_4615_39: -4330565466490204680
+      2048_2048_ui.part.c_4615_4: -7251256068062621075
+      2048_2048_ui.part.c_4615_40: -3296495094073469819
+      2048_2048_ui.part.c_4615_41: -9221630242585059683
+      2048_2048_ui.part.c_4615_42: 8389571488047685797
+      2048_2048_ui.part.c_4615_43: 6646885134691916465
+      2048_2048_ui.part.c_4615_44: -261964935419480712
+      2048_2048_ui.part.c_4615_45: 2248318505730872463
+      2048_2048_ui.part.c_4615_46: -5682147826960546193
+      2048_2048_ui.part.c_4615_47: -4553097673724166999
+      2048_2048_ui.part.c_4615_48: -6635260642211662972
+      2048_2048_ui.part.c_4615_5: 9099206049648157906
+      2048_2048_ui.part.c_4615_50: 6812186361556443971
+      2048_2048_ui.part.c_4615_51: 2368404372442884355
+      2048_2048_ui.part.c_4615_52: 729550507385154848
+      2048_2048_ui.part.c_4615_53: 75852202334808990
+      2048_2048_ui.part.c_4615_54: 1361826642976939669
+      2048_2048_ui.part.c_4615_55: 2961913106039345690
+      2048_2048_ui.part.c_4615_56: -827026146495977529
+      2048_2048_ui.part.c_4615_57: 1799326149444547317
+      2048_2048_ui.part.c_4615_58: -1613043712938572019
+      2048_2048_ui.part.c_4615_59: -2738403470044187370
+      2048_2048_ui.part.c_4615_6: 6734532946982419108
+      2048_2048_ui.part.c_4615_60: -3615617397057049999
+      2048_2048_ui.part.c_4615_61: 4111413085513553118
+      2048_2048_ui.part.c_4615_62: -838262783368767211
+      2048_2048_ui.part.c_4615_64: -8042598592350015508
+      2048_2048_ui.part.c_4615_65: 5502062249371950282
+      2048_2048_ui.part.c_4615_66: 1537027831825106287
+      2048_2048_ui.part.c_4615_67: -6946254530398686742
+      2048_2048_ui.part.c_4615_68: -1253286847903244589
+      2048_2048_ui.part.c_4615_69: -3683257713151303615
+      2048_2048_ui.part.c_4615_7: 2359364583965645831
+      2048_2048_ui.part.c_4615_70: 1126150039340858672
+      2048_2048_ui.part.c_4615_71: 2704058073886344971
+      2048_2048_ui.part.c_4615_72: 3761170536050374673
+      2048_2048_ui.part.c_4615_73: -3157856234344021785
+      2048_2048_ui.part.c_4615_74: -1781873581036523775
+      2048_2048_ui.part.c_4615_75: -6253677294955064431
+      2048_2048_ui.part.c_4615_76: 8674247811918841642
+      2048_2048_ui.part.c_4615_77: 8050480165161824695
+      2048_2048_ui.part.c_4615_78: -6617242789095331880
+      2048_2048_ui.part.c_4615_79: -7954771704725226874
+      2048_2048_ui.part.c_4615_8: -1020256826383020591
+      2048_2048_ui.part.c_4615_80: 7160119006918173167
+      2048_2048_ui.part.c_4615_81: 8778979953454909519
+      2048_2048_ui.part.c_4615_82: -4559249828711470060
+      2048_2048_ui.part.c_4615_83: -1860120121004082367
+      2048_2048_ui.part.c_4615_84: 197700601338958611
+      2048_2048_ui.part.c_4615_85: 2361469152856222265
+      2048_2048_ui.part.c_4615_86: -5925187220620705096
+      2048_2048_ui.part.c_4615_87: -2058518097706427238
+      2048_2048_ui.part.c_4615_88: 6989292898141329954
+      2048_2048_ui.part.c_4615_89: -4765152656500627180
+      2048_2048_ui.part.c_4615_9: 4238687005981031672
+      2048_2048_ui.part.c_4615_90: 80882315346286402
+      2048_2048_ui.part.c_4615_91: -1031307682667405227
+      2048_2048_ui.part.c_4615_92: -1175566388924213769
+      2048_2048_ui.part.c_4615_93: 6649888082044192635
+      2048_2048_ui.part.c_4615_94: 5844211834749639217
+      2048_2048_ui.part.c_4615_95: -865637997231051366
+      2048_2048_ui.part.c_4615_96: -7825803306562733544
+      2048_2048_ui.part.c_4615_97: -8904503837583769402
+      2048_2048_ui.part.c_4615_98: 5259129535347789893
+      2048_2048_ui.part.c_4615_99: 1761599201248210619
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
