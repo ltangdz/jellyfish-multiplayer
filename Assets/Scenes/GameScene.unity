@@ -2836,27 +2836,8 @@ MonoBehaviour:
   armController: {fileID: 857397790}
   imageTransform: {fileID: 1498830046}
   jellyfishRenderer: {fileID: 1498830047}
-  jellyfishItems:
-  - jellyfishImage: {fileID: 549539222363606820, guid: 7891e888920936847acbc028556b899d, type: 3}
-    jellyfishPrefab: {fileID: 3664437672843483358, guid: 82dc2b648385a504ab191d3a7d8734b2, type: 3}
-    mechanicalArmAngle: 35
-    jellyfishName: 1
-  - jellyfishImage: {fileID: 2135108295517090450, guid: 8bc66d34a9bc05b44a19cd5111dc0447, type: 3}
-    jellyfishPrefab: {fileID: 4790148763734169773, guid: 736ac6bf02ecd5f438f0f7d98b045e44, type: 3}
-    mechanicalArmAngle: 32
-    jellyfishName: 2
-  - jellyfishImage: {fileID: 6777802636657807599, guid: e0591c2cf42c1fe45a50c476ba57efe1, type: 3}
-    jellyfishPrefab: {fileID: 5816279590477600639, guid: 1367f015edb8bf84186300f823c34570, type: 3}
-    mechanicalArmAngle: 21
-    jellyfishName: 3
-  - jellyfishImage: {fileID: -5413066952169527918, guid: 5808265527843f5498580f4593881591, type: 3}
-    jellyfishPrefab: {fileID: 2584628797655287727, guid: 5290d44e1487e894aa2a87b1c831e607, type: 3}
-    mechanicalArmAngle: 18
-    jellyfishName: 4
-  - jellyfishImage: {fileID: -5262214460761924078, guid: 8fdbaf79b67377242ae7744edaa29e54, type: 3}
-    jellyfishPrefab: {fileID: 2653740726384239979, guid: 16403fb6979faf04c96730ff9be8df5a, type: 3}
-    mechanicalArmAngle: 11
-    jellyfishName: 5
+  spawnJellyfishSOList: {fileID: 11400000, guid: 92bcf12de579cb94fb612a093a9fd0a1, type: 2}
+  mergeJellyfishSOList: {fileID: 11400000, guid: 20a6a50e862cbfa4bb58695960b6c70e, type: 2}
   spawnDelay: 1
 --- !u!1 &669533043
 GameObject:

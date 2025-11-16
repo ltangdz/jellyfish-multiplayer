@@ -1,14 +1,16 @@
 using System.Collections;
+using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Serialization;
 
-[System.Serializable]
-public class JellyfishItem
-{
-    public Sprite jellyfishImage;            // 水母图像
-    public GameObject jellyfishPrefab;       // 水母预制体
-    public float mechanicalArmAngle = 0f;    // 机械臂角度
-    public string jellyfishName = "水母";     // 水母名称
-}
+// [System.Serializable]
+// public class JellyfishItem
+// {
+//     public Sprite jellyfishImage;            // 水母图像
+//     public GameObject jellyfishPrefab;       // 水母预制体
+//     public float mechanicalArmAngle = 0f;    // 机械臂角度
+//     public string jellyfishName = "水母";     // 水母名称
+// }
 
 /// <summary>
 /// 管理水母生成
@@ -21,8 +23,11 @@ public class SpawnManager : Singleton<SpawnManager>
     [SerializeField] private Transform imageTransform;           // 水母图像显示位置
     [SerializeField] private SpriteRenderer jellyfishRenderer;   // 水母图像渲染器
     
+    [FormerlySerializedAs("spawnJellyfisSOList")]
     [Header("水母设置")]
-    [SerializeField] private JellyfishItem[] jellyfishItems;     // 水母数据数组
+    // [SerializeField] private JellyfishItem[] jellyfishItems;     // 水母数据数组
+    [SerializeField] private JellyfishSOList spawnJellyfishSOList;
+    [SerializeField] private JellyfishSOList mergeJellyfishSOList;
     [SerializeField] private float spawnDelay = 1f;              // 生成延迟时间
     
 
@@ -30,7 +35,9 @@ public class SpawnManager : Singleton<SpawnManager>
     private int nextJellyfishIndex = -1;      // 下一个水母索引
     private bool canClick = true;            // 是否可以点击
     public bool CanClick => canClick;
-    
+
+    private List<JellyfishSO> spawnJellyfishList;
+    private int spawnJellyfishCount;
     private void Start()
     {
         InitializeJellyfish();
@@ -41,10 +48,11 @@ public class SpawnManager : Singleton<SpawnManager>
     /// </summary>
     private void InitializeJellyfish()
     {
-        if (jellyfishItems == null || jellyfishItems.Length == 0) return;
-            
+        spawnJellyfishList = spawnJellyfishSOList.JellyfishList;
+        spawnJellyfishCount = spawnJellyfishList.Count;
+        
         // 随机选择当前水母
-        currentJellyfishIndex = Random.Range(0, jellyfishItems.Length);
+        currentJellyfishIndex = Random.Range(0, spawnJellyfishCount);
         
         // 选择下一个水母（确保与当前不同，除非只有一种水母）
         SelectNextJellyfish();
@@ -61,22 +69,8 @@ public class SpawnManager : Singleton<SpawnManager>
     // 选择下一个水母
     private void SelectNextJellyfish()
     {
-        if (jellyfishItems == null || jellyfishItems.Length == 0)
-            return;
-            
-        // 随机选择一个水母索引，确保与当前索引不同（如果可能）
-        if (jellyfishItems.Length == 1)
-        {
-            nextJellyfishIndex = 0;
-        }
-        else
-        {
-            do
-            {
-                nextJellyfishIndex = Random.Range(0, jellyfishItems.Length);
-            }
-            while (nextJellyfishIndex == currentJellyfishIndex);
-        }
+        // 随机选择一个水母索引
+        nextJellyfishIndex = Random.Range(0, spawnJellyfishCount);
         
         // 更新UI预览
         UpdateUIPreview();
@@ -85,43 +79,30 @@ public class SpawnManager : Singleton<SpawnManager>
     // 更新水母图像
     private void UpdateJellyfishImage()
     {
-        if (jellyfishRenderer != null && currentJellyfishIndex >= 0 && currentJellyfishIndex < jellyfishItems.Length)
-        {
-            jellyfishRenderer.sprite = jellyfishItems[currentJellyfishIndex].jellyfishImage;
-        }
+        jellyfishRenderer.sprite = spawnJellyfishList[currentJellyfishIndex].jellyfishImage;
     }
     
     // 显示或隐藏水母图像
     private void ShowJellyfishImage(bool show)
     {
-        if (jellyfishRenderer != null)
-        {
-            jellyfishRenderer.enabled = show;
-        }
+        jellyfishRenderer.enabled = show;
     }
     
     // 更新机械臂角度
     private void UpdateMechanicalArmAngle()
     {
-        if (armController != null && currentJellyfishIndex >= 0 && currentJellyfishIndex < jellyfishItems.Length)
-        {
-            // 使用HeaderController的方法设置机械臂角度
-            armController.SetArmRotation(jellyfishItems[currentJellyfishIndex].mechanicalArmAngle);
-        }
+        // 使用HeaderController的方法设置机械臂角度
+        armController.SetArmRotation(spawnJellyfishList[currentJellyfishIndex].mechanicalArmAngle);
     }
     
     // 更新UI预览
     private void UpdateUIPreview()
     {
-        if (nextJellyfishIndex >= 0 && nextJellyfishIndex < jellyfishItems.Length)
-        {
-            // 获取下一个水母数据
-            JellyfishItem nextItem = jellyfishItems[nextJellyfishIndex];
-            
-            // 更新UI预览，显示下一个水母
-            // uiManager.UpdateNextJellyfishPreview(nextItem.jellyfishImage, nextItem.jellyfishName);
-            UIManager.Instance.MainUI.UpdateNextJellyfishPreview(nextItem.jellyfishImage, nextItem.jellyfishName);
-        }
+        // 获取下一个水母数据
+        JellyfishSO jellyfishSO = spawnJellyfishList[nextJellyfishIndex];
+        
+        // 更新UI预览，显示下一个水母
+        UIManager.Instance.MainUI.UpdateNextJellyfishPreview(jellyfishSO.jellyfishImage, jellyfishSO.jellyfishName);
     }
     
     /// <summary>
@@ -142,23 +123,11 @@ public class SpawnManager : Singleton<SpawnManager>
         // 禁止点击
         canClick = false;
         
-        // 如果当前没有有效的水母索引，直接返回
-        if (currentJellyfishIndex < 0 || currentJellyfishIndex >= jellyfishItems.Length || mechanicalClawTransform == null)
-        {
-            yield return new WaitForSeconds(spawnDelay);
-            canClick = true;
-            yield break;
-        }
+        // yield return new WaitForSeconds(spawnDelay);
+        // canClick = true;
         
         // 获取当前水母预制体
-        GameObject prefab = jellyfishItems[currentJellyfishIndex].jellyfishPrefab;
-        if (prefab == null)
-        {
-            Debug.LogWarning("当前水母预制体为空！");
-            yield return new WaitForSeconds(spawnDelay);
-            canClick = true;
-            yield break;
-        }
+        GameObject jellyfishPrefab = spawnJellyfishList[currentJellyfishIndex].jellyfishPrefab;
         
         // 在生成水母之前隐藏机械臂上的水母图像
         ShowJellyfishImage(false);
@@ -185,7 +154,7 @@ public class SpawnManager : Singleton<SpawnManager>
         }
         
         // 生成水母预制体
-        GameObject jellyfish = Instantiate(prefab, spawnPosition, Quaternion.identity);
+        GameObject jellyfish = Instantiate(jellyfishPrefab, spawnPosition, Quaternion.identity);
         
         // 将水母设为容器的子对象
         jellyfish.transform.SetParent(GameManager.Instance.JellyfishContainer);
@@ -222,5 +191,13 @@ public class SpawnManager : Singleton<SpawnManager>
             );
             Gizmos.DrawSphere(spawnPos, 0.3f);
         }
+    }
+
+    public GameObject GetNextLevelPrefab(int currLevel)
+    {
+        if(currLevel - 1 >= mergeJellyfishSOList.JellyfishList.Count) return null;
+        
+        JellyfishSO jellyfishSO = mergeJellyfishSOList.JellyfishList[currLevel - 1];
+        return jellyfishSO.jellyfishPrefab;
     }
 }

@@ -47,7 +47,6 @@
   <ItemGroup>
     <Compile Include="Assets\Script\Misc\Singleton.cs" />
     <Compile Include="Assets\Script\Network\JellyfishMultiplayer.cs" />
-    <Compile Include="Assets\Script\JellyfishGame\JellyfishController.cs" />
     <Compile Include="Assets\Script\EventSystem\EventName.cs" />
     <Compile Include="Assets\Script\JellyfishGame\MechanicalArmController.cs" />
     <Compile Include="Assets\Script\JellyfishGame\DeadArea.cs" />
@@ -65,6 +64,7 @@
     <Compile Include="Assets\Script\UI\SettingUI.cs" />
     <Compile Include="Assets\Script\UI\MainUI.cs" />
     <Compile Include="Assets\InputActions.cs" />
+    <Compile Include="Assets\Script\JellyfishGame\Jellyfish.cs" />
     <Compile Include="Assets\DOTween\Modules\DOTweenModulePhysics2D.cs" />
     <Compile Include="Assets\DOTween\Modules\DOTweenModuleUI.cs" />
     <Compile Include="Assets\DOTween\Modules\DOTweenModuleSprite.cs" />
@@ -76,9 +76,11 @@
     <Compile Include="Assets\Script\UI\UIManager.cs" />
     <Compile Include="Assets\Script\UI\MainMenuUI.cs" />
     <Compile Include="Assets\Script\JellyfishGame\JellyfishEffect.cs" />
+    <Compile Include="Assets\Script\JellyfishGame\JellyfishSOList.cs" />
     <Compile Include="Assets\Script\Misc\SingletonNetwork.cs" />
     <Compile Include="Assets\DOTween\Modules\DOTweenModuleEPOOutline.cs" />
     <Compile Include="Assets\Script\Sounds\AudioClipRefsSO.cs" />
+    <Compile Include="Assets\Script\JellyfishGame\JellyfishSO.cs" />
     <Compile Include="Assets\DOTween\Modules\DOTweenModuleUtils.cs" />
     <Compile Include="Assets\Script\Audio\AudioManager.cs" />
     <None Include="Assets\TextMesh Pro\Shaders\TMPro.cginc" />

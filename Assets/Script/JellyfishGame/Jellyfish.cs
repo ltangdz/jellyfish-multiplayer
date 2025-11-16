@@ -1,12 +1,12 @@
 using UnityEngine;
 using DG.Tweening; // 使用DOTween插件
 
-public class JellyfishController : MonoBehaviour
+public class Jellyfish : MonoBehaviour
 {
     [Header("水母属性")]
     [SerializeField] private int level = 1; // 水母等级
     public int Level => level;
-    [SerializeField] private GameObject nextLevelPrefab; // 下一级水母预制体
+    private GameObject nextLevelPrefab; // 下一级水母预制体
     
     [Header("合成设置")]
     [SerializeField] private float mergeAnimationDuration = 0.1f; // 合成动画持续时间
@@ -23,6 +23,7 @@ public class JellyfishController : MonoBehaviour
 
     private void Start()
     {
+        nextLevelPrefab = SpawnManager.Instance.GetNextLevelPrefab(level);
         rb = GetComponent<Rigidbody2D>();
         jellyfishCollider = GetComponent<Collider2D>();
         
@@ -36,7 +37,7 @@ public class JellyfishController : MonoBehaviour
         // 如果正在被合成，或者等级不同，或者等级为最高 (11)，则忽略碰撞
         if (isBeingMerged || level == 11) return;
             
-        var otherJellyfish = collision.gameObject.GetComponent<JellyfishController>();
+        var otherJellyfish = collision.gameObject.GetComponent<Jellyfish>();
 
         if (otherJellyfish == null || otherJellyfish.Level == 11 || otherJellyfish.Level != level) return;
         
@@ -53,7 +54,7 @@ public class JellyfishController : MonoBehaviour
     }
 
     // 开始合成动画
-    private void StartMergeAnimation(JellyfishController otherJellyfish)
+    private void StartMergeAnimation(Jellyfish otherJellyfish)
     {
         // 计算两个水母的中点作为新水母的生成位置
         Vector3 mergePosition = (transform.position + otherJellyfish.transform.position) / 2f;
@@ -74,19 +75,19 @@ public class JellyfishController : MonoBehaviour
             if (nextLevelPrefab != null)
             {
                 // 生成新水母
-                GameObject newJellyfish = Instantiate(nextLevelPrefab, mergePosition, Quaternion.identity);
-                newJellyfish.transform.SetParent(GameManager.Instance.JellyfishContainer);
+                Transform newJellyfishTransform = Instantiate(nextLevelPrefab, mergePosition, Quaternion.identity).transform;
+                newJellyfishTransform.SetParent(GameManager.Instance.JellyfishContainer);
                 
                 // 设置新水母的初始缩放并播放放大动画
-                newJellyfish.transform.localScale = Vector3.one * expandScale;
-                newJellyfish.transform.DOScale(1f, mergeAnimationDuration * 0.5f).SetEase(Ease.OutBack);
+                newJellyfishTransform.localScale = Vector3.one * expandScale;
+                newJellyfishTransform.DOScale(1f, mergeAnimationDuration * 0.5f).SetEase(Ease.OutBack);
                 
                 // 获取新水母的控制器
-                JellyfishController newController = newJellyfish.GetComponent<JellyfishController>();
-                if (newController != null)
+                Jellyfish newJellyfish = newJellyfishTransform.GetComponent<Jellyfish>();
+                if (newJellyfish != null)
                 {
                     // 增加分数
-                    AddScoreForMerge(newController.Level);
+                    AddScoreForMerge(newJellyfish.Level);
                 }
             }
             
